@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/://olaknowct.github.io/monster-rancher/static/css/main.730a640b.chunk.css",
-    "main.js": "/://olaknowct.github.io/monster-rancher/static/js/main.8a10a53b.chunk.js",
-    "main.js.map": "/://olaknowct.github.io/monster-rancher/static/js/main.8a10a53b.chunk.js.map",
-    "runtime-main.js": "/://olaknowct.github.io/monster-rancher/static/js/runtime-main.c2386b59.js",
-    "runtime-main.js.map": "/://olaknowct.github.io/monster-rancher/static/js/runtime-main.c2386b59.js.map",
-    "static/js/2.37f7f33b.chunk.js": "/://olaknowct.github.io/monster-rancher/static/js/2.37f7f33b.chunk.js",
-    "static/js/2.37f7f33b.chunk.js.map": "/://olaknowct.github.io/monster-rancher/static/js/2.37f7f33b.chunk.js.map",
-    "static/js/3.ffa7da97.chunk.js": "/://olaknowct.github.io/monster-rancher/static/js/3.ffa7da97.chunk.js",
-    "static/js/3.ffa7da97.chunk.js.map": "/://olaknowct.github.io/monster-rancher/static/js/3.ffa7da97.chunk.js.map",
-    "index.html": "/://olaknowct.github.io/monster-rancher/index.html",
-    "static/css/main.730a640b.chunk.css.map": "/://olaknowct.github.io/monster-rancher/static/css/main.730a640b.chunk.css.map",
-    "static/js/2.37f7f33b.chunk.js.LICENSE.txt": "/://olaknowct.github.io/monster-rancher/static/js/2.37f7f33b.chunk.js.LICENSE.txt"
+    "main.css": "/monster-rancher/static/css/main.730a640b.chunk.css",
+    "main.js": "/monster-rancher/static/js/main.8a10a53b.chunk.js",
+    "main.js.map": "/monster-rancher/static/js/main.8a10a53b.chunk.js.map",
+    "runtime-main.js": "/monster-rancher/static/js/runtime-main.9cff8411.js",
+    "runtime-main.js.map": "/monster-rancher/static/js/runtime-main.9cff8411.js.map",
+    "static/js/2.37f7f33b.chunk.js": "/monster-rancher/static/js/2.37f7f33b.chunk.js",
+    "static/js/2.37f7f33b.chunk.js.map": "/monster-rancher/static/js/2.37f7f33b.chunk.js.map",
+    "static/js/3.ffa7da97.chunk.js": "/monster-rancher/static/js/3.ffa7da97.chunk.js",
+    "static/js/3.ffa7da97.chunk.js.map": "/monster-rancher/static/js/3.ffa7da97.chunk.js.map",
+    "index.html": "/monster-rancher/index.html",
+    "static/css/main.730a640b.chunk.css.map": "/monster-rancher/static/css/main.730a640b.chunk.css.map",
+    "static/js/2.37f7f33b.chunk.js.LICENSE.txt": "/monster-rancher/static/js/2.37f7f33b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2386b59.js",
+    "static/js/runtime-main.9cff8411.js",
     "static/js/2.37f7f33b.chunk.js",
     "static/css/main.730a640b.chunk.css",
     "static/js/main.8a10a53b.chunk.js"
