@@ -28,6 +28,11 @@ link : https://olaknowct.github.io/monster-rancher/
   - when can add attribute on custom component inside JXS and passed into component as props 
 - I've learned that when we see that the component can be used from multiple place, then we need to break it down into component as much as possible this is to make optimize and efficient
 - State becomes props when it gets passed down to components, its a uni-directional flow wherein the data can only flow one way.
+- Unidirectional in the sense of when state sets, all under HTML tree where the states lives will be updated and rerendered to DOM
+- When DOM changes
+  - Virtual DOM : React create a copy of Real DOM (current DOM)  
+  - New DOM : React create a copy of Virtual DOM with its changes
+  - Updated DOM : updating only the Element that changes by comparing Current DOM and Virtual DOM
 - Lifycycle methods gets called automatically from every different stages
 - We have syntetic events on Virtual DOM. DOM API events for HTML 
 - Functional component
